@@ -49,7 +49,7 @@ Welcome to the **Naan Stop Wok** project! This is a dynamic, feature-rich web ap
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/naan-stop-wok.git
+git clone https://github.com/MDaiyan-Dev/WebDev-FinalProject.git
 cd test
 ```
 
